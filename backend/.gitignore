@@ -1,2 +1,18 @@
+# Node modules for both backend and mobile
+node_modules/
+
+# React Native build folders
+android/app/build/
+ios/build/
+build/
+dist/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Environment
 .env
-node_modules
+
+# macOS
+.DS_Store
