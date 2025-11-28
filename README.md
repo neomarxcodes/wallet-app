@@ -9,7 +9,8 @@
 🛠️ Tech Stack
 - React Native
 - Expo
-- TypeScript
+- JavaScript
+- Tailwind CSS
   
 ⚙️ Installation & Setup
 - Clone the repository:
